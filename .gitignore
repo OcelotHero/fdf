@@ -1,0 +1,16 @@
+*
+!inc/
+!**/inc/**
+!lib/
+!lib/*
+!src/
+!**/src/**
+!test_maps/
+!*.fdf
+!*.c
+!*.h
+!MLX42/
+!*/MLX42/**
+!Makefile
+!.gitignore
+*_backup.c
